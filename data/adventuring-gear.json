@@ -1,0 +1,22 @@
+{
+  "adventuring_gear": [
+    {"id": "backpack", "name": "Backpack", "cost": 2, "weight": 5},
+    {"id": "bedroll", "name": "Bedroll", "cost": 1, "weight": 2},
+    {"id": "rope_hempen", "name": "Rope, hempen (50 ft)", "cost": 1, "weight": 5},
+    {"id": "rope_silk", "name": "Rope, silk (50 ft)", "cost": 10, "weight": 1},
+    {"id": "torch", "name": "Torch", "cost": 0.01, "weight": 0.1},
+    {"id": "rations", "name": "Rations (1 day)", "cost": 0.5, "weight": 2},
+    {"id": "waterskin", "name": "Waterskin", "cost": 0.2, "weight": 2},
+    {"id": "tinderbox", "name": "Tinderbox", "cost": 0.5, "weight": 0.2},
+    {"id": "candle", "name": "Candle", "cost": 0.01, "weight": 0.1},
+    {"id": "lamp", "name": "Lamp", "cost": 0.5, "weight": 2},
+    {"id": "oil_flask", "name": "Oil (flask)", "cost": 0.1, "weight": 1},
+    {"id": "pouch", "name": "Pouch", "cost": 0.5, "weight": 0.5},
+    {"id": "sack", "name": "Sack", "cost": 0.01, "weight": 1},
+    {"id": "crowbar", "name": "Crowbar", "cost": 2, "weight": 2},
+    {"id": "hammer", "name": "Hammer", "cost": 1, "weight": 1},
+    {"id": "piton", "name": "Piton", "cost": 0.05, "weight": 0.1},
+    {"id": "healers_kit", "name": "Healer's kit", "cost": 5, "weight": 2},
+    {"id": "climbers_kit", "name": "Climber's kit", "cost": 25, "weight": 25}
+  ]
+}
